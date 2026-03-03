@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Application",
+  "description": "A feature-rich quiz application with real-time feedback, score tracking, and smooth transitions.",
+  "requestFramePermissions": []
+}
